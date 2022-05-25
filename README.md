@@ -7,8 +7,11 @@ This project is setup of the linters.
 
 
 👤 **Author**
+Contact Info
 
-- GitHub: [@githubhandle](https://github.com/shahira-sadat)
+- GitHub: [Shahira Sadat](https://github.com/shahira-sadat)
+- Twitter: [Shahira Sadat](https://twitter.com/SadatShahira)
+- Linkedin: [Shahira Sadat](https://www.linkedin.com/in/shahira-sadat-49b402199)
 
 
 ## 🤝 Contributing
